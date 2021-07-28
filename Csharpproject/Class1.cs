@@ -9,6 +9,7 @@ namespace Csharpproject
         static void display()
         {
             Console.WriteLine("HIIIIIIIIII");
+            int x = 20;
         }
     }
 }
